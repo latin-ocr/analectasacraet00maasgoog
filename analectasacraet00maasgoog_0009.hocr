@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./analectasacraet00maasgoog_0009.png"; bbox 0 0 5050 5759; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1860 0 5033 1168">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1860 0 5033 1168">
+     <span class='ocr_line' id='line_1_1' title="bbox 1860 0 5033 1168; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 1860 0 5033 1168; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2112 2235 2484 2311">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2112 2235 2484 2311">
+     <span class='ocr_line' id='line_1_2' title="bbox 2112 2235 2484 2311; baseline 0.024 -9"><span class='ocrx_word' id='word_1_2' title='bbox 2112 2235 2484 2311; x_wconf 72' lang='lat' dir='ltr'>SCRIPSIT</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1564 3187 2985 3423">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1564 3187 2985 3423">
+     <span class='ocr_line' id='line_1_3' title="bbox 1564 3187 2985 3331; baseline 0.029 -49"><span class='ocrx_word' id='word_1_3' title='bbox 1564 3187 2368 3307; x_wconf 78' lang='lat' dir='ltr'><strong>ERNESTVS</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 2456 3211 2793 3331; x_wconf 71' lang='lat' dir='ltr'>MAA</span> <span class='ocrx_word' id='word_1_5' title='bbox 2829 3219 2985 3323; x_wconf 80' lang='lat' dir='ltr'>SS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1804 3344 2765 3423; baseline 0.024 -24"><span class='ocrx_word' id='word_1_6' title='bbox 1804 3344 2196 3407; x_wconf 67' lang='lat' dir='ltr'>FRUFESSGR</span> <span class='ocrx_word' id='word_1_7' title='bbox 2232 3359 2765 3423; x_wconf 59' lang='lat' dir='ltr'>mnf-vanam&amp;</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1900 5319 2589 5387">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1900 5319 2589 5387">
+     <span class='ocr_line' id='line_1_5' title="bbox 1900 5319 2589 5387; baseline 0.017 -16"><span class='ocrx_word' id='word_1_8' title='bbox 1900 5319 2259 5379; x_wconf 60' lang='lat' dir='ltr'>HARPVRGI</span> <span class='ocrx_word' id='word_1_9' title='bbox 2295 5327 2589 5387; x_wconf 68' lang='lat' dir='ltr'>nncssccl</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 24 0 1476 5748">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 24 0 1476 5748">
+     <span class='ocr_line' id='line_1_6' title="bbox 24 0 1476 5748; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 24 0 1476 5748; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
